@@ -1,0 +1,11 @@
+*.so
+*.png
+*.jpg
+*.txt
+*.pyc
+*.gif
+*.md
+*.html
+*.yml
+*.obj
+*.pdf
